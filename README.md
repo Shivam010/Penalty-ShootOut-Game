@@ -16,4 +16,4 @@ Feel free to fork and open a pull request.
 And Please make your changes in a specific branch and request to pull into master! If you can, please make sure the game fully works before sending the PR, as that will help speed up the process.
 
 # License
-Penalty Shotout Game is licensed under my [MIT license](https://github.com/Shivam010/Penalty-ShotOut-Game/blob/master/LICENSE) and the [Pygame Package](http://www.pygame.org/wiki/about)
+Penalty Shotout Game is licensed under my [MIT license](https://github.com/Shivam010/Penalty-ShootOut-Game/blob/master/LICENSE) and the [Pygame Package](http://www.pygame.org/wiki/about)
